@@ -11,3 +11,8 @@ This dataset provides an overview of global earthquake events, including the dat
 
 
 ![image](https://github.com/user-attachments/assets/0c5be3ca-18f9-4168-9800-0160c6e04ecf)
+
+
+ANALYSIS:
+
+
