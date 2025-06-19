@@ -37,8 +37,8 @@ STEP BY STEP process:
    >>Displays how many earthquakes fall into each magnitude range (e.g., 0–3, 3–6, 6–9+)
 
 3. Time Series Trends
-  >>A line or area chart over time showing earthquake frequency or cumulative energy release.
-  >>What to look for: Are there periods with unusually high activity? Spikes may correlate with tectonic events or aftershock sequences.
+   >>A line or area chart over time showing earthquake frequency or cumulative energy release.
+   >>What to look for: Are there periods with unusually high activity? Spikes may correlate with tectonic events or aftershock sequences.
 
 
 4. Top Events or Table of Largest Quakes
