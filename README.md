@@ -1,2 +1,2 @@
 # Global-Earthquake-Patterns-
-![image](https://github.com/user-attachments/assets/3097363e-ffda-404f-a26c-9ccff5214306)
+![image](https://github.com/user-attachments/assets/268ba17c-c68c-4579-b282-00d288eb44b0)
